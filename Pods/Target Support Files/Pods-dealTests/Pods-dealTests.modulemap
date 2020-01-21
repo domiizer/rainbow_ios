@@ -1,0 +1,6 @@
+framework module Pods_dealTests {
+  umbrella header "Pods-dealTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
